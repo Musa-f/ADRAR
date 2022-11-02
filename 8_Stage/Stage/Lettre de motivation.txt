@@ -1,0 +1,38 @@
+Bonjour,
+
+
+Actuellement en cours d'études de formation en développement web à Lourdes, je suis à la recherche d'une entreprise qui pourrait m'accueillir dans le cadre d'un stage d'une durée de dix semaines à compter du 3 avril.
+
+Pour vous situer mon parcours, je préparais avant cela le diplôme de comptabilité et de gestion (DCG). J’ai décidé de me réorienter pendant mes études de comptabilités car j’ai réalisé qu’elles ne correspondaient pas totalement à ce que je souhaitais réellement faire.
+Il me manquait de la créativité ainsi que de la pratique dans ce que je faisais.
+C’est notamment grâce à une matière, le système d’information -la seule qui a vraiment suscité mon attention pendant mes études- qui m’a mis sur la piste des études de programmation.
+C’est de là que j’ai commencé, dans un premier temps, à étudier certains langages informatiques en autodidacte, en parallèle du DCG. C’est par la suite que j’ai pris la décision de mener des recherches pour me réorienter définitivement dans ce domaine.
+
+
+Grâce à l’ADRAR, j’ai eu l’opportunité de rejoindre une formation en développement web cette année.
+Nous avons pour l’instant étudié le HTML, le CSS ainsi que les algorithmes en classe. Nous préparons également en ce moment (bientôt en phase terminale) un projet de groupe sur la création d’un site de vente (front-end uniquement, mais je me charge personnellement d'une partie du back). 
+
+De mon côté, j’ai déjà étudié d’autres langages tels que le JavaScript, le PHP ainsi que le SQL. J’ai déjà réalisé des projets personnels tels que des sites vitrines et d’autres petits « outils » (calculatrice, un générateur de calcul aléatoire, un carrousel d’images…etc)
+
+Un autre domaine qui me passionne beaucoup, c’est le graphisme. Je réalise, pendant mon temps libre, parfois pour mon entourage, certaines créations, depuis de très nombreuses années. J’ai une bonne maîtrise des logiciels Adobe, notamment Photoshop et Illustrator.
+Mon portfolio regroupe mes diverses créations.
+
+
+C’est en prenant en compte ces deux univers, celui de l’informatique et du graphisme que je souhaiterais rejoindre votre agence, j’espère pouvoir concilier les deux.
+J’ose espérer que, grâce aux missions que vous me confierez, je pourrais appliquer mes connaissances et, dans l’idéal, apporter un plus à votre entreprise.
+
+
+En espérant que ma candidature retiendra votre attention, veuillez croire, Madame, Monsieur, en ma considération distinguée.
+
+
+MUSAEVA Fatima.
+
+
+Ps : je conçois bien que le mois d’avril peut sembler éloigné, mais les stages dans ce secteur étant très demandé, je préfère prendre les précautions nécessaires.
+
+
+Projet de programmation
+Système à onglet cliquable : https://github.com/Musa-f/syst-me_onglet.git
+Carrousel d’image : https://github.com/Musa-f/carousel.git
+
+Mon portfolio de graphisme : https://heavartstudio.wordpress.com/

@@ -1,0 +1,28 @@
+section{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+.xproduit{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    margin-top: 25px;
+    background-color: #fff;
+    color: #6472AC;
+    border-radius:10%;
+    
+}
+
+h3{
+   text-align: right;
+}
+.description{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
